@@ -153,3 +153,5 @@ ipython_config.py
 data/
 *.csv
 *.geojson
+
+.DS_Store
