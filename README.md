@@ -5,7 +5,7 @@ A data-driven exploration of Detroit’s reported crime incidents combining **sp
 ---
 
 ## Overview
-This repository presents an end-to-end **machine-learning workflow** for analyzing and forecasting crime data using the **Detroit RMS (Records Management System)** open dataset.  
+This repository presents an end-to-end **machine-learning workflow** for analyzing and forecasting crime data using the [**Detroit RMS (Records Management System)**](https://data.detroitmi.gov/datasets/detroitmi::rms-crime-incidents/explore?location=42.348151%2C-83.095882%2C10) open dataset.  
 The project integrates **SARIMAX** and **LSTM** models with geospatial clustering techniques such as **KDE**, **DBSCAN**, and **Getis-Ord Gi\*** to deliver interpretable forecasts and risk insights for urban-safety research.
 
 ---
