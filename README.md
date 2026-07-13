@@ -113,6 +113,6 @@ cd detroit-crime-analysis
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch interactive dashboard
-python app.py
+# Open the interactive dashboard locally
+open docs/index.html
 ```
