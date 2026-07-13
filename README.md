@@ -107,11 +107,12 @@ The analysis is intended for **academic and strategic insight**, emphasizing res
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/detroit-crime-forecasting.git
-cd detroit-crime-forecasting
+git clone https://github.com/spacedust10/detroit-crime-analysis.git
+cd detroit-crime-analysis
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Launch interactive dashboard
 python app.py
+```
