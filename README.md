@@ -89,6 +89,11 @@ The project integrates **SARIMAX** and **LSTM** models with geospatial clusterin
 
 ---
 
+## Interactive Dashboard
+A self-contained portfolio dashboard ([`docs/index.html`](docs/index.html)) presents the full analysis without requiring any code to run: citywide trend and hour-by-day patterns with a year filter, an SVG precinct choropleth, spatial-statistics and forecasting results, and an annotated gallery of every figure from the notebook — six of them as live Plotly charts. Aggregates are precomputed by [`tools/extract_data.py`](tools/extract_data.py); no raw incident data ships with the page.
+
+---
+
 ## Key Results
 - Detected statistically significant hotspots (Gi\* p < 0.05) aligned with major activity corridors.  
 - **SARIMAX model:** RMSE < 10 % of mean, MAPE ≈ 6.3 %, Directional Accuracy ≈ 78.8 %.  
