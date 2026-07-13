@@ -307,3 +307,7 @@ data/
 *.geojson
 
 .DS_Store
+# Local AI-tooling scratch directories
+.claude/
+.gstack/
+.serena/
