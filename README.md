@@ -1,5 +1,7 @@
 # Detroit Crime Forecasting & Resource Allocation
 
+**[Live Demo](https://spacedust10.github.io/detroit-crime-analysis/)** — interactive dashboard hosted on GitHub Pages.
+
 A data-driven exploration of Detroit’s reported crime incidents combining **spatial analytics**, **time-series forecasting**, and **AI-based modeling** to identify hotspots, forecast trends, and inform strategic planning.
 
 ---
